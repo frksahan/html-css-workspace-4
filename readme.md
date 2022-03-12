@@ -1,0 +1,1 @@
+this lesson ı'm gonna learn about the css introduction to color. until this time ı've learned so many diffrent things about programing. ı love this job :D
