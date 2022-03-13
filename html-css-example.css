@@ -121,9 +121,6 @@ h5 {
     font-weight: 300;
 }
 
-
-/* Page elements */
-
 ul {
     margin: 0 auto;
     padding: 0;
@@ -146,12 +143,14 @@ p {
 }
 
 a {
-    color: #214E34;
+    color: #298b52;
     font-family: 'Raleway', sans-serif;
-    font-size: 13px;
-    font-weight: 900;
+    font-size: 16px;
+    font-weight: 1000;
     text-align: left;
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 2px;
+    border-bottom: 5px solid;
+    border-bottom-color: #235e5e;
 }
