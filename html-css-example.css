@@ -55,7 +55,7 @@ body {
 /* Roast types */
 
 .green {
-    background-color: hsl(130, 55%, 55%);
+    background-color: hsla(130, 55%, 55%, 0.9);
 }
 
 .light {
