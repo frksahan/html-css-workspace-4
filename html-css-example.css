@@ -38,6 +38,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
     font-weight: 400;
+    font-style: italic;
 }
 
 .spectrum div {
@@ -90,6 +91,7 @@ h1 {
     text-align: center;
     top: 10%;
     text-transform: lowercase;
+    letter-spacing: 3px;
 }
 
 h2 {
@@ -139,13 +141,14 @@ li {
 
 p {
     color: #444444;
-    line-height: 32px;
+    line-height: 1.4;
     font-family: 'Raleway', sans-serif;
-    font-style: italic;
+    font-style: normal;
     font-size: 20px;
     font-weight: 100;
     font-weight: bold;
     letter-spacing: 0px;
+    word-spacing: 2px;
 }
 
 a {
