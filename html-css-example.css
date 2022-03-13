@@ -89,6 +89,7 @@ h1 {
     position: relative;
     text-align: center;
     top: 10%;
+    text-transform: lowercase;
 }
 
 h2 {
