@@ -1,1 +1,2 @@
-this lesson ı'm gonna learn about the css introduction to color. until this time ı've learned so many diffrent things about programing. ı love this job :D
+this lesson ı'm gonna learn about the css introduction to color. until this time ı've learned so many diffrent things about programing. ı love this job :D 
+actually we can make a web page with CSS but this web page not so complecsly. But we can make a really difrent web page html, css with js.
