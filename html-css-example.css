@@ -26,8 +26,8 @@ body {
     padding: 20px 30px 40px 30px;
     background-color: #FFFFFF;
     overflow: auto;
-    width: 75%;
-    border-radius: 4px;
+    width: 80%;
+    border-radius: 12px;
     align-self: center;
 }
 
@@ -129,7 +129,7 @@ h5 {
 ul {
     margin: 0 auto;
     padding: 0;
-    width: 75%;
+    width: 60%;
 }
 
 li {
