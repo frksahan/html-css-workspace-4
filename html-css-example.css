@@ -21,6 +21,11 @@ body {
     background-position: center;
 }
 
+.header h1 {
+    font-family: 'Space Mono', monospace;
+    letter-spacing: 5px;
+}
+
 .roasting {
     margin: 40px auto;
     padding: 20px 30px 40px 30px;
